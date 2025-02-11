@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+surprise
+tqdm
+joblib
+dotenv
+openai
+telebot
+pathlib
