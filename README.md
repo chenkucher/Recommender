@@ -15,7 +15,7 @@ This repository contains a recommendation system that integrates collaborative f
 1. Clone the repository:
    ```
    git clone https://github.com/chenkucher/Recommender.git
-   cd your-repo
+   cd Recommender
    ```
 2. Install required dependencies:
    ```
